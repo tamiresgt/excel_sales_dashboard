@@ -36,3 +36,5 @@ The result of this project was a dashboard with interactive filters that led to 
 3. **Course Performance:** The PowerPoint and Word courses have been underperforming compared to other offerings. To address this, new strategies should be implemented, including course content enhancements. Incorporating AI-driven tools to assist with presentations and text creation could attract more learners and improve course engagement.
 
 This project demonstrates how Excel’s powerful Pivot Tables and data preparation techniques can be used to build insightful dashboards for sales analysis. Feel free to contribute or ask questions! 🚀
+
+This dashboard was built during the PowerBI course at HashtagTreinamentos.
