@@ -4,6 +4,9 @@
 
 This project showcases an interactive sales dashboard built in Excel using Pivot Tables. The dashboard provides insights into the sales performance of various technology courses, allowing users to analyze revenue trends, seller performance, and sales distribution across different time periods.
 
+![ExcelSalesDashboard](https://github.com/user-attachments/assets/a3961d6f-df2c-4d26-a0c3-29f66ee4df1e)
+
+
 ## Data Preparation
 
 The original database was in a format similar to a txt file, so the following processing steps had to be carried out. 
